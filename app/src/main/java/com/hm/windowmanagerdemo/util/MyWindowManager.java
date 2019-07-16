@@ -19,7 +19,6 @@ import java.io.IOException;
  * Created by dumingwei on 2017/3/15.
  */
 public class MyWindowManager {
-W
     private static FloatWindowSmallView smallWindow;
     private static FloatWindowBigView bigWindow;
 
