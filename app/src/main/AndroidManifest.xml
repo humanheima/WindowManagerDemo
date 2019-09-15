@@ -24,12 +24,8 @@
         <service
             android:name=".service.FloatViewService"
             android:enabled="true"
-            android:exported="false"/>
+            android:exported="false" />
 
-        <!--打包渠道-->
-        <meta-data
-            android:name="CHANNEL"
-            android:value="${CHANNEL_NAME}" />
     </application>
 
 </manifest>
